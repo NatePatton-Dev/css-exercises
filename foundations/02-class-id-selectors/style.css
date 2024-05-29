@@ -1,0 +1,15 @@
+.a {
+    background-color: hsl(2, 56%, 68%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#a {
+    color: hsl(240, 84%, 47%);
+    font-size: 36px;
+}
+.b{
+    font-size: 24px;
+}
+#b {
+    background-color: hsl(120, 56%, 59%);
+    font-weight: bold;
+}
